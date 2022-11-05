@@ -1,0 +1,19 @@
+{
+  "name": "multimap",
+  "version": "0.0.1",
+  "description": "A package to import and display multiple Google MyMaps in a single map",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marker004/multimap.git"
+  },
+  "author": "marker004",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marker004/multimap/issues"
+  },
+  "homepage": "https://github.com/marker004/multimap#readme"
+}
